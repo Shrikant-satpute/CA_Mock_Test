@@ -1,0 +1,327 @@
+{
+  "mcq": [
+    {
+      "id": 1,
+      "question": "Under Section 197 of the Companies Act 2013, what is the overall maximum managerial remuneration payable by a public company to all its managerial personnel together in any financial year?",
+      "options": {
+        "A": "5% of net profits",
+        "B": "11% of net profits",
+        "C": "15% of net profits",
+        "D": "10% of net profits"
+      },
+      "correct": "B",
+      "marks": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "question": "Under Section 197, the maximum remuneration payable to a single Managing Director or Whole-time Director or Manager by a public company shall not exceed:",
+      "options": {
+        "A": "3% of net profits",
+        "B": "10% of net profits",
+        "C": "5% of net profits",
+        "D": "11% of net profits"
+      },
+      "correct": "C",
+      "marks": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "question": "When a public company has more than one Managing Director or Whole-time Director or Manager, the maximum total remuneration payable to all of them together shall not exceed:",
+      "options": {
+        "A": "5% of net profits",
+        "B": "11% of net profits",
+        "C": "15% of net profits",
+        "D": "10% of net profits"
+      },
+      "correct": "D",
+      "marks": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "When a public company has a Managing Director or Whole-time Director or Manager, the maximum remuneration payable to Non-Executive Directors (other than MD/WTD/Manager) shall not exceed:",
+      "options": {
+        "A": "1% of net profits",
+        "B": "3% of net profits",
+        "C": "5% of net profits",
+        "D": "2% of net profits"
+      },
+      "correct": "A",
+      "marks": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "When a public company does NOT have a Managing Director or Whole-time Director or Manager, the maximum remuneration payable to Non-Executive Directors shall not exceed:",
+      "options": {
+        "A": "1% of net profits",
+        "B": "2% of net profits",
+        "C": "5% of net profits",
+        "D": "3% of net profits"
+      },
+      "correct": "D",
+      "marks": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "question": "As per the Companies Act 2013, the maximum sitting fees that can be paid to a director for attending each Board or Committee meeting is:",
+      "options": {
+        "A": "₹50,000 per meeting",
+        "B": "₹1,00,000 per meeting",
+        "C": "₹2,00,000 per meeting",
+        "D": "₹75,000 per meeting"
+      },
+      "correct": "B",
+      "marks": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "Regarding the 11% overall remuneration limit under Section 197, which of the following statements is CORRECT about sitting fees?",
+      "options": {
+        "A": "Sitting fees are included in the 11% overall limit",
+        "B": "Sitting fees are excluded from the 11% overall limit",
+        "C": "Sitting fees are included only if they exceed ₹50,000 per meeting",
+        "D": "Sitting fees form part of the 10% limit for multiple directors"
+      },
+      "correct": "B",
+      "marks": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 8,
+      "question": "Under the Companies Act 2013, which type of director is PROHIBITED from receiving stock options as part of their remuneration?",
+      "options": {
+        "A": "Executive Directors",
+        "B": "Whole-time Directors",
+        "C": "Independent Directors",
+        "D": "Managing Directors"
+      },
+      "correct": "C",
+      "marks": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 9,
+      "question": "Under Section 197(10) of the Companies Act 2013, when a director receives remuneration in excess of the permissible limit, the director is required to:",
+      "options": {
+        "A": "Retain the excess amount as it is already paid",
+        "B": "Refund the excess amount to the company within a specified period",
+        "C": "Deposit the excess amount to the Central Government",
+        "D": "Adjust the excess against future remuneration"
+      },
+      "correct": "B",
+      "marks": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "question": "Schedule V of the Companies Act 2013 applies in which of the following situations regarding managerial remuneration?",
+      "options": {
+        "A": "When the company has surplus profits exceeding ₹100 crores",
+        "B": "When the company has adequate profits but wants to pay more than 11%",
+        "C": "When the company has no profits or inadequate profits",
+        "D": "When the company has foreign directors on its Board"
+      },
+      "correct": "C",
+      "marks": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 11,
+      "question": "Under Schedule V of the Companies Act 2013, for a company with an effective capital of ₹150 crores and inadequate profits, the maximum yearly remuneration payable to the managerial person is:",
+      "options": {
+        "A": "₹84 lakhs per year",
+        "B": "₹120 lakhs per year",
+        "C": "₹168 lakhs per year",
+        "D": "₹60 lakhs per year"
+      },
+      "correct": "C",
+      "marks": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 12,
+      "question": "Under Schedule V of the Companies Act 2013, for a company with effective capital BELOW ₹5 crores and inadequate profits, what is the maximum yearly remuneration payable to the managerial person?",
+      "options": {
+        "A": "₹30 lakhs per year",
+        "B": "₹60 lakhs per year",
+        "C": "₹84 lakhs per year",
+        "D": "₹1.2 crore per year"
+      },
+      "correct": "B",
+      "marks": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 13,
+      "question": "Under what circumstance are professional fees paid to a director-professional NOT treated as 'remuneration' under the Companies Act 2013?",
+      "options": {
+        "A": "When approved by the Central Government",
+        "B": "When the amount is below ₹5 lakhs per year",
+        "C": "When passed by a Board resolution that such services are of a professional nature",
+        "D": "When the director is an Independent Director"
+      },
+      "correct": "C",
+      "marks": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 14,
+      "question": "Which Committee of the Board of Directors is primarily responsible for determining the remuneration policy and recommending the remuneration of directors and KMPs?",
+      "options": {
+        "A": "Audit Committee",
+        "B": "Risk Management Committee",
+        "C": "Nomination and Remuneration Committee",
+        "D": "Stakeholders Relationship Committee"
+      },
+      "correct": "C",
+      "marks": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 15,
+      "question": "A company has a net profit of ₹1 crore for FY 2023-24. It has one Managing Director. What is the MAXIMUM remuneration that can be paid to the MD under Section 197?",
+      "options": {
+        "A": "₹10 lakhs",
+        "B": "₹5 lakhs",
+        "C": "₹11 lakhs",
+        "D": "₹3 lakhs"
+      },
+      "correct": "B",
+      "marks": 1,
+      "difficulty": "scenario"
+    },
+    {
+      "id": 16,
+      "question": "A company earns a net profit of ₹2 crores in FY 2023-24 and has NO Managing Director or Whole-time Director. What is the maximum total remuneration payable to its Non-Executive Directors?",
+      "options": {
+        "A": "₹2 lakhs (1% of net profits)",
+        "B": "₹6 lakhs (3% of net profits)",
+        "C": "₹22 lakhs (11% of net profits)",
+        "D": "₹20 lakhs (10% of net profits)"
+      },
+      "correct": "B",
+      "marks": 1,
+      "difficulty": "scenario"
+    },
+    {
+      "id": 17,
+      "question": "A director was paid ₹15 lakhs as remuneration, but the permissible limit under Section 197 was ₹10 lakhs. What is the EXCESS amount that the director must refund to the company?",
+      "options": {
+        "A": "₹10 lakhs",
+        "B": "₹15 lakhs",
+        "C": "₹5 lakhs",
+        "D": "₹25 lakhs"
+      },
+      "correct": "C",
+      "marks": 1,
+      "difficulty": "scenario"
+    },
+    {
+      "id": 18,
+      "question": "A company has an effective capital of ₹200 crores and is making no profits in a financial year. Under which slab of Schedule V does it fall, and what is the approximate permissible yearly remuneration?",
+      "options": {
+        "A": "Effective capital above ₹100 crores — ₹168 lakhs per year",
+        "B": "Effective capital above ₹250 crores — ₹1.2 crore per year",
+        "C": "Effective capital ₹100–₹250 crores — ₹168 lakhs per year",
+        "D": "Effective capital above ₹500 crores — unlimited"
+      },
+      "correct": "C",
+      "marks": 1,
+      "difficulty": "scenario"
+    },
+    {
+      "id": 19,
+      "question": "A public company wishes to pay managerial remuneration exceeding the limits specified in Section 197 of the Companies Act 2013. Which of the following approvals is REQUIRED?",
+      "options": {
+        "A": "Ordinary Resolution of shareholders only",
+        "B": "Board of Directors resolution only",
+        "C": "Special Resolution of shareholders and Central Government approval (if required)",
+        "D": "Approval from the Registrar of Companies only"
+      },
+      "correct": "C",
+      "marks": 1,
+      "difficulty": "scenario"
+    },
+    {
+      "id": 20,
+      "question": "Which specific section of the Companies Act 2013 governs the overall maximum managerial remuneration in a public company?",
+      "options": {
+        "A": "Section 196",
+        "B": "Section 197",
+        "C": "Section 198",
+        "D": "Section 203"
+      },
+      "correct": "B",
+      "marks": 1,
+      "difficulty": "hard"
+    }
+  ],
+  "short": [
+    {
+      "id": 21,
+      "question": "Explain the overall maximum managerial remuneration limits under Section 197 of the Companies Act 2013. Discuss the limits applicable to different categories of managerial personnel.",
+      "modelAnswer": "Section 197 of the Companies Act 2013 prescribes the following maximum limits for managerial remuneration in a public company:\n\n1. OVERALL LIMIT: The total managerial remuneration payable to all directors (including MD, WTD, Manager, and other directors) shall not exceed 11% of the net profits of the company calculated as per Section 198.\n\n2. INDIVIDUAL LIMITS:\n   (a) Single MD/WTD/Manager: Maximum 5% of net profits\n   (b) More than one MD/WTD/Manager: Maximum 10% of net profits (collectively)\n   (c) Non-executive directors (when MD/WTD/Manager exists): Maximum 1% of net profits\n   (d) Non-executive directors (when no MD/WTD/Manager): Maximum 3% of net profits\n\n3. EXCEPTIONS: Sitting fees paid to directors for attending Board/Committee meetings are EXCLUDED from the 11% limit.\n\n4. SHAREHOLDER APPROVAL: These limits may be exceeded only by passing a Special Resolution by shareholders. In certain cases, Central Government approval may also be required.\n\n5. APPLICABILITY: These provisions apply only to PUBLIC COMPANIES. Private companies are not subject to Section 197 limits.",
+      "keywords": ["Section 197", "11%", "net profits", "5%", "10%", "1%", "3%", "Special Resolution", "public company", "Section 198", "sitting fees", "MD", "WTD", "Manager"],
+      "marks": 4
+    },
+    {
+      "id": 22,
+      "question": "What is Schedule V of the Companies Act 2013? When does it apply? Explain the remuneration limits under Schedule V based on effective capital.",
+      "modelAnswer": "SCHEDULE V — APPLICABILITY AND LIMITS:\n\nDefinition: Schedule V is a part of the Companies Act 2013 that prescribes the conditions and remuneration limits for appointment of managerial personnel when a company has NO PROFITS or INADEQUATE PROFITS.\n\nAPPLICABILITY: Schedule V applies when:\n(a) A company has no profits in a financial year, OR\n(b) Profits are inadequate (i.e., the remuneration payable exceeds the Section 197 limit)\n\nREMUNERATION LIMITS BASED ON EFFECTIVE CAPITAL (per annum):\n• Effective Capital Negative or less than ₹5 crores → ₹60 lakhs\n• Effective Capital ₹5 crores to ₹100 crores → ₹84 lakhs\n• Effective Capital ₹100 crores to ₹250 crores → ₹168 lakhs\n• Effective Capital above ₹250 crores → ₹168 lakhs + 0.01% of effective capital above ₹250 crores\n\nEFFECTIVE CAPITAL means paid-up share capital + share premium + reserves & surplus + long-term loans – accumulated losses – preliminary expenses – deferred expenditure.\n\nAPPROVALS REQUIRED: Approval by Special Resolution of shareholders and compliance with conditions in Schedule V (e.g., the managerial person should not have been convicted of any offence).\n\nCentral Government approval is NOT required if the above conditions are met.",
+      "keywords": ["Schedule V", "inadequate profits", "no profits", "effective capital", "₹60 lakhs", "₹84 lakhs", "₹168 lakhs", "Special Resolution", "paid-up share capital", "reserves", "long-term loans"],
+      "marks": 4
+    },
+    {
+      "id": 23,
+      "question": "Explain sitting fees under the Companies Act 2013. Is sitting fees included in the overall 11% remuneration limit? What is the maximum permissible amount of sitting fees?",
+      "modelAnswer": "SITTING FEES — EXPLANATION:\n\nDefinition: Sitting fees are fees paid to directors for attending meetings of the Board of Directors or any Committee thereof. It is compensation for the time and effort spent by directors in attending company meetings.\n\nMAXIMUM AMOUNT:\nThe maximum sitting fees payable to a director for attending each meeting of the Board or Committee is ₹1,00,000 (Rupees One Lakh) per meeting.\nThe actual amount within this limit is decided by the Board of Directors.\n\nINCLUSION IN 11% LIMIT:\nSitting fees are EXCLUDED from the overall 11% managerial remuneration limit under Section 197. This means sitting fees paid to directors do NOT count towards the 11% ceiling.\n\nREASON FOR EXCLUSION: Since sitting fees are paid for attending specific meetings and are not regular remuneration, they are treated separately from managerial remuneration.\n\nIMPORTANT NOTES:\n• Independent Directors and Non-Executive Directors are generally paid only sitting fees and/or commission (profit-linked)\n• Sitting fees for Independent Directors may be higher than for other directors — this is a matter of Board decision\n• The Board can fix different sitting fees for different types of meetings (Board meeting vs. Audit Committee meeting)\n• Sitting fees cannot be paid to Executive Directors (MD/WTD) as they already receive regular remuneration",
+      "keywords": ["sitting fees", "₹1,00,000", "excluded", "11%", "Board meeting", "Committee meeting", "Non-Executive Directors", "Independent Directors", "Section 197"],
+      "marks": 4
+    },
+    {
+      "id": 24,
+      "question": "What are the legal consequences when a director receives remuneration in excess of the permissible limits? Explain with reference to Section 197(10) of the Companies Act 2013.",
+      "modelAnswer": "EXCESS REMUNERATION — LEGAL CONSEQUENCES UNDER SECTION 197(10):\n\n1. OBLIGATION TO REFUND: If any director receives any amount as remuneration in excess of the amount permissible under Section 197, such director shall REFUND the excess amount to the company.\n\n2. TIME LIMIT FOR REFUND: The excess amount must be refunded within TWO YEARS from the date of receipt of such excess amount, or such lesser period as may be notified.\n\n3. WAIVER BY COMPANY: Until such excess amount is refunded, it shall be held by the director in TRUST for the company. The company shall not waive the recovery of any such amount unless permitted by the Central Government.\n\n4. PENALTY FOR NON-COMPLIANCE:\n   (a) Company: Fine up to ₹1 crore\n   (b) Director (who fails to refund): Fine not less than ₹1 lakh but extending to ₹5 lakhs\n   Both the company and the officer in default are liable.\n\n5. RECOVERY ACTION: If the director refuses to refund, the company may take legal action to recover the excess amount.\n\n6. INTEREST: The excess amount held in trust shall be without interest or benefit to the director.\n\nKEY PRINCIPLE: The director does not get to keep the excess amount as it was 'already paid' — the law mandates refund and creates a trust relationship over the excess amount.",
+      "keywords": ["Section 197(10)", "refund", "excess amount", "two years", "trust", "Central Government", "penalty", "₹1 crore", "waiver", "recovery"],
+      "marks": 4
+    },
+    {
+      "id": 25,
+      "question": "Distinguish between 'remuneration' and 'professional fees' paid to a director who is also a professional. When are professional fees NOT treated as remuneration under the Companies Act 2013?",
+      "modelAnswer": "REMUNERATION vs PROFESSIONAL FEES — DISTINCTION:\n\nREMUNERATION refers to compensation paid to a person in their capacity as a DIRECTOR of the company — salary, commission, perquisites, allowances paid for holding the directorial position.\n\nPROFESSIONAL FEES refer to fees paid to a person for rendering specific PROFESSIONAL SERVICES in their capacity as a professional (e.g., lawyer, chartered accountant, consultant) — separate from their role as director.\n\nWHEN PROFESSIONAL FEES ARE NOT TREATED AS REMUNERATION:\nUnder the proviso to Section 197, fees paid to a director who is also a professional (CA, CS, Advocate, etc.) shall NOT be treated as remuneration if:\n(a) The services rendered are of a PROFESSIONAL NATURE\n(b) A BOARD RESOLUTION is passed to the effect that such services are of professional nature and the director possesses requisite qualifications\n(c) The Nomination and Remuneration Committee (NRC), if constituted, certifies that the fees are at arm's length\n\nKEY DIFFERENCES:\n| Basis | Remuneration | Professional Fees |\n|-------|-------------|------------------|\n| Capacity | Paid as Director | Paid as Professional |\n| Section 197 Limit | Subject to limits | Not subject to limits |\n| Board Resolution | Not required | Required |\n| Nature | Regular/Periodic | Service-based |\n\nSIGNIFICANCE: This distinction is important as professional fees, when properly structured with Board resolution, do not count towards the 11% managerial remuneration ceiling.",
+      "keywords": ["professional fees", "remuneration", "Board resolution", "professional nature", "Section 197", "NRC", "Nomination and Remuneration Committee", "11%", "CA", "professional services"],
+      "marks": 4
+    }
+  ],
+  "case": [
+    {
+      "id": 26,
+      "caseScenario": "Sunrise Ltd. is a public limited company that earned a net profit of ₹80 lakhs for the financial year 2023-24. The company has one Managing Director (Mr. Arun) and three Non-Executive Directors (Mrs. Priya, Mr. Suresh, and Ms. Kavitha). The Board of Directors proposes to pay Mr. Arun (MD) a remuneration of ₹6 lakhs for the year. Additionally, each Non-Executive Director is proposed to be paid ₹1.5 lakhs (total ₹4.5 lakhs for three NEDs). The total proposed payment is ₹10.5 lakhs.",
+      "question": "Examine whether the proposed payments comply with Section 197 of the Companies Act 2013. Calculate the maximum permissible amount for each category. What steps, if any, must the company take to legally make these payments?",
+      "modelAnswer": "SOLUTION — SECTION 197 COMPLIANCE CHECK FOR SUNRISE LTD:\n\nGIVEN INFORMATION:\n• Net Profit = ₹80 lakhs\n• One Managing Director (Mr. Arun)\n• Three Non-Executive Directors\n• Proposed MD Remuneration = ₹6 lakhs\n• Proposed NED Remuneration = ₹1.5 lakhs × 3 = ₹4.5 lakhs\n• Total Proposed = ₹10.5 lakhs\n\nMAXIMUM PERMISSIBLE LIMITS CALCULATION:\n\n1. Overall Limit (11% of Net Profits):\n   11% × ₹80 lakhs = ₹8.80 lakhs\n\n2. MD Remuneration Limit (5% of Net Profits):\n   5% × ₹80 lakhs = ₹4.00 lakhs\n\n3. NED Limit (1% of Net Profits — since MD exists):\n   1% × ₹80 lakhs = ₹0.80 lakhs (total for all NEDs combined)\n\nCOMPLIANCE ANALYSIS:\n\n(a) MD Remuneration: Proposed ₹6 lakhs vs. Permissible ₹4 lakhs → EXCEEDS LIMIT by ₹2 lakhs ✗\n\n(b) NED Remuneration: Proposed ₹4.5 lakhs vs. Permissible ₹0.80 lakhs → EXCEEDS LIMIT by ₹3.70 lakhs ✗\n\n(c) Total Remuneration: Proposed ₹10.5 lakhs vs. Overall Permissible ₹8.80 lakhs → EXCEEDS by ₹1.70 lakhs ✗\n\nCONCLUSION: The proposed payments DO NOT comply with Section 197.\n\nSTEPS TO MAKE LEGAL PAYMENT (To exceed Section 197 limits):\n1. Pass a SPECIAL RESOLUTION at the General Meeting of shareholders\n2. The resolution must specifically approve the excess remuneration\n3. Ensure compliance with Schedule V conditions (if profits are inadequate)\n4. In case of inadequate profits — check Schedule V limits based on effective capital\n\nRECOMMENDATION: Either reduce the proposed remuneration to within limits (MD: max ₹4L, NEDs collectively: max ₹0.80L) OR obtain Special Resolution approval from shareholders.",
+      "keywords": ["Section 197", "11%", "₹8.80 lakhs", "5%", "₹4 lakhs", "1%", "₹0.80 lakhs", "Special Resolution", "exceeds", "compliance", "net profits", "₹80 lakhs"],
+      "marks": 5
+    },
+    {
+      "id": 27,
+      "caseScenario": "Horizon Pvt. Ltd. is a company going through a difficult financial year with inadequate profits. The effective capital of the company is ₹150 crores (comprising paid-up share capital of ₹100 crores, share premium of ₹30 crores, and free reserves of ₹20 crores). The Managing Director, Mr. Vikram, is demanding a remuneration of ₹10 lakhs per month (₹1.2 crore per year), citing his extensive industry experience and the company's growth under his leadership.",
+      "question": "Advise the company on: (i) Which provisions of the Companies Act 2013 apply in this situation? (ii) What is the maximum permissible remuneration for Mr. Vikram under Schedule V? (iii) What approvals, if any, are required? (iv) Can the company pay ₹1.2 crore per year to Mr. Vikram?",
+      "modelAnswer": "SOLUTION — SCHEDULE V ANALYSIS FOR HORIZON PVT. LTD.:\n\nGIVEN INFORMATION:\n• Company Status: Inadequate profits\n• Effective Capital = ₹100 cr (paid-up) + ₹30 cr (premium) + ₹20 cr (reserves) = ₹150 crores\n• MD Demand: ₹10 lakhs/month = ₹1.20 crores per year\n\n(i) APPLICABLE PROVISIONS:\nSince the company has INADEQUATE PROFITS, Section 197 limits based on net profits are not workable. Therefore, SCHEDULE V of the Companies Act 2013 applies. Schedule V prescribes remuneration limits based on effective capital when there are no/inadequate profits.\n\nNOTE: Though the question mentions 'Horizon Pvt. Ltd.' — Schedule V technically applies to public companies. If it is indeed a private company, Schedule V does not apply and remuneration is governed by Articles of Association. However, assuming it is a public limited company (or for exam purposes):\n\n(ii) SCHEDULE V LIMIT — CALCULATION:\nEffective Capital of ₹150 crores falls in the slab:\n• ₹100 crores to ₹250 crores → Maximum ₹168 lakhs (₹1.68 crores) per year\n\nTherefore, the maximum permissible remuneration = ₹168 lakhs = ₹1.68 crores per year\n\n(iii) APPROVALS REQUIRED:\n1. Special Resolution passed by shareholders in General Meeting\n2. Compliance with all conditions specified in Schedule V:\n   (a) The managerial person should not have been sentenced to imprisonment for any period\n   (b) The company should not have defaulted in payment of dues to any bank or financial institution\n   (c) The remuneration should be approved by the Nomination and Remuneration Committee\n3. Central Government approval is NOT required if Schedule V conditions are fully met\n\n(iv) CAN HORIZON PAY ₹1.2 CRORE TO MR. VIKRAM?\nYES — The demanded amount of ₹1.2 crore per year is WITHIN the Schedule V limit of ₹1.68 crores per year.\nThe payment is permissible provided:\n• Special Resolution is passed by shareholders\n• All Schedule V conditions are complied with\n• Nomination and Remuneration Committee approves the remuneration",
+      "keywords": ["Schedule V", "inadequate profits", "effective capital", "₹150 crores", "₹168 lakhs", "₹1.68 crores", "Special Resolution", "₹100 crores to ₹250 crores", "Central Government", "NRC", "Nomination and Remuneration Committee"],
+      "marks": 5
+    },
+    {
+      "id": 28,
+      "caseScenario": "Mr. Rajesh is the Managing Director of Delta Ltd., a public limited company. During the financial year 2023-24, he received total remuneration of ₹14 lakhs from the company. However, upon calculation as per Section 197 and Section 198 of the Companies Act 2013, the maximum permissible remuneration that could have been paid to him was only ₹9 lakhs. The company's auditors flagged this discrepancy in their audit report. The Board of Directors is now concerned about the legal implications.",
+      "question": "Examine the legal consequences of this situation under the Companies Act 2013. Specifically discuss: (i) What are the legal consequences of this excess payment? (ii) What must Mr. Rajesh do? (iii) What must the company do? (iv) What happens if Mr. Rajesh refuses to refund the excess amount?",
+      "modelAnswer": "SOLUTION — EXCESS REMUNERATION ANALYSIS FOR DELTA LTD.:\n\nGIVEN INFORMATION:\n• Actual Remuneration Paid to Mr. Rajesh = ₹14 lakhs\n• Maximum Permissible Limit = ₹9 lakhs\n• EXCESS AMOUNT = ₹14 lakhs - ₹9 lakhs = ₹5 lakhs\n\n(i) LEGAL CONSEQUENCES OF EXCESS PAYMENT:\nThe excess payment of ₹5 lakhs is ILLEGAL and violates Section 197 of the Companies Act 2013. The following consequences arise:\n• The payment is in contravention of the Act and creates a legal obligation on Mr. Rajesh\n• The excess amount is deemed to be held by Mr. Rajesh 'IN TRUST' for the company until refunded\n• Both the company and its officers in default are exposed to penalties under the Act\n• The auditor has correctly flagged this as a violation in the audit report\n\n(ii) WHAT MUST MR. RAJESH DO — SECTION 197(10):\n• Mr. Rajesh MUST REFUND the excess amount of ₹5 lakhs to Delta Ltd.\n• The refund must be made within TWO YEARS from the date of receipt of excess remuneration\n• Until refund, the ₹5 lakhs is held by him in TRUST for the company (no beneficial ownership)\n• He cannot claim the excess as rightfully earned income\n\n(iii) WHAT MUST THE COMPANY DO:\n• The company must NOT waive recovery of the excess amount without Central Government approval\n• The Board of Directors must demand refund from Mr. Rajesh and initiate recovery proceedings\n• The company must disclose this violation and the recovery status in its Board's Report\n• The company must ensure compliance with Section 197 in future years\n• The Nomination and Remuneration Committee must review and correct the remuneration structure\n\n(iv) CONSEQUENCES IF MR. RAJESH REFUSES TO REFUND:\nIf Mr. Rajesh refuses to refund the excess amount of ₹5 lakhs:\n• PENALTY ON DIRECTOR: Fine of not less than ₹1 lakh but which may extend to ₹5 lakhs\n• PENALTY ON COMPANY: Fine up to ₹1 crore (or twice the excess remuneration paid, whichever is lower)\n• The company may initiate a CIVIL SUIT to recover the excess amount as a debt\n• The director may face disqualification proceedings\n• The matter can be reported to the Registrar of Companies\n• Central Government has powers to direct recovery of excess remuneration",
+      "keywords": ["Section 197(10)", "₹5 lakhs", "excess remuneration", "refund", "two years", "trust", "penalty", "₹1 lakh", "₹5 lakhs penalty", "₹1 crore", "Central Government", "waiver", "recovery", "Board Report"],
+      "marks": 5
+    }
+  ]
+}

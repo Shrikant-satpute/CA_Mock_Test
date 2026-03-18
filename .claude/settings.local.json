@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd C:/Users/Admin/Desktop/sss/CA_Mock_Test && node --version && npm --version)",
+      "Bash(cd C:/Users/Admin/Desktop/sss/CA_Mock_Test && npx create-next-app@14 . --typescript --tailwind --app --no-eslint --src-dir=no --import-alias=\"@/*\" --use-npm 2>&1)",
+      "Bash(cd C:/Users/Admin/Desktop/sss/CA_Mock_Test && npx create-next-app@14 . --typescript --tailwind --app --no-eslint --src-dir=no --import-alias=\"@/*\" --use-npm --yes 2>&1 | head -50)",
+      "Bash(cd C:/Users/Admin/Desktop/sss/CA_Mock_Test && npx next build 2>&1 | grep -E \"\\(error|Error|warning|✓|Route\\)\" | head -30)",
+      "Bash(cd C:/Users/Admin/Desktop/sss/CA_Mock_Test && npx next build 2>&1 | tail -25)",
+      "Bash(cd C:/Users/Admin/Desktop/sss/CA_Mock_Test && npx next build 2>&1 | tail -20)"
+    ]
+  }
+}
