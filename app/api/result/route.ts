@@ -1,27 +1,8 @@
-// =============================================================================
-// GET /api/result?username=...&attemptId=...
-// Reads from Vercel KV (production) or /data/results.json (local dev)
-// =============================================================================
-
 import { NextRequest, NextResponse } from 'next/server';
-import type { ResultsData, QuestionsData } from '@/lib/types';
+import { getResults } from '@/lib/redis';
+import type { QuestionsData } from '@/lib/types';
 
 export const dynamic = 'force-dynamic';
-
-async function readResults(): Promise<ResultsData> {
-  if (process.env.KV_REST_API_URL) {
-    const { kv } = await import('@vercel/kv');
-    return (await kv.get<ResultsData>('results')) ?? {};
-  }
-  const fs = await import('fs');
-  const path = await import('path');
-  try {
-    const raw = fs.readFileSync(path.join(process.cwd(), 'data', 'results.json'), 'utf-8');
-    return JSON.parse(raw);
-  } catch {
-    return {};
-  }
-}
 
 async function readQuestions(): Promise<QuestionsData> {
   const fs = await import('fs');
@@ -40,7 +21,7 @@ export async function GET(request: NextRequest) {
       return NextResponse.json({ success: false, error: 'Username is required' }, { status: 400 });
     }
 
-    const resultsData = await readResults();
+    const resultsData = await getResults();
     const userAttempts = resultsData[username] || [];
 
     if (userAttempts.length === 0) {
